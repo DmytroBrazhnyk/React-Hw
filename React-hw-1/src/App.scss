@@ -1,0 +1,68 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Темний фон */
+}
+.modal-content {
+  background-color: #bbe1f1;
+  padding: 20px;
+  border-radius: 20px;
+  position: relative;
+}
+.modal-close{
+  position: absolute;
+  top: 15px; 
+  right: 15px; 
+  cursor: pointer;
+  padding: 0;
+  background: none;
+  border: none;
+}
+.modal-footer button{
+  background-color: rgb(146, 81, 207);
+  color: white;
+  width: 192px;
+  height: 48px;
+  text-transform: uppercase;
+}
+.modal-header img{
+  width: 60%;
+}
+.modal-content{
+  width: 560px;
+  height: 333px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.firstModal {
+  & .modal-content{
+    width: 560px;
+    height: 558px;
+  }
+  & .modal-footer{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+  & button:last-child {
+    background-color: #fff;
+    color: rgb(146, 81, 207);
+  }
+}
