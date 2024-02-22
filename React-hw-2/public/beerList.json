@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Пиво Fanatic «Cryo APA»",
+        "price": 70.00,
+        "image": "https://hophey.ua/upload/iblock/db0/nvpi44hr63ijcfzleiu3x5v4bb4nkh99/pivo-fanatic-cryo-apa.png",
+        "article": "0001",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Пиво Fanatic «Porter»",
+        "price": 64.00,
+        "image": "https://hophey.ua/upload/iblock/4f5/4f5da565f25b7649efbf1c6dee8f52eb.png",
+        "article": "0002",
+        "color": "Темне, Нефільтроване"
+    },
+    {
+        "name": "Пиво «Трембіта»",
+        "price": 53.00,
+        "image": "https://hophey.ua/upload/iblock/9f1/fup4p0grpee3nf8uzu1x9zz1tdah982j/pivo-trembita.png",
+        "article": "0003",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Пиво FDB «Lager»",
+        "price": 54.00,
+        "image": "https://hophey.ua/upload/iblock/d48/tbb10t5mk4lgfm1h8gqsxux9u47rn09t/pivo-fdb-lager.png",
+        "article": "0004",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Пиво «Lightner»",
+        "price": 44.00,
+        "image": "https://hophey.ua/upload/iblock/a27/lozaqwfpyqt7m1756svln2xtbdzzp4rt/pivo-lightner.png",
+        "article": "0005",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Пиво «Braunwald»",
+        "price": 60.00,
+        "image": "https://hophey.ua/upload/iblock/352/dc66ukq6h0h72mgofgej40uzr65nm1h4/pivo-braunwald.png",
+        "article": "0006",
+        "color": "Темне, Нефільтроване"
+    },
+    {
+        "name": "Пиво «Берлінгер»",
+        "price": 55.00,
+        "image": "https://hophey.ua/upload/iblock/592/b59ny5pdy31p7x17q6p288farks7q0x9/pivo-berlinger.png",
+        "article": "0007",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Пиво «Allesgut»",
+        "price": 59.00,
+        "image": "https://hophey.ua/upload/iblock/a41/p44hjxu88w6153m34wzhdk27e4oqivvo/pivo-allesgut.png",
+        "article": "0008",
+        "color": "Світле, Нефільтроване"
+    },
+    {
+        "name": "Сидр «Фраголіно»",
+        "price": 49.00,
+        "image": "https://hophey.ua/upload/iblock/a8a/bx01v3wzd4chjyxf0ri509egv84271ex/sidr-fragolino.png",
+        "article": "0009",
+        "color": "Світлий"
+    },
+    {
+        "name": "Сидр «Чорна смородина»",
+        "price": 49.00,
+        "image": "https://hophey.ua/upload/iblock/df8/paa18a0dr55quglbdt4aknis4jmjx6fr/10378555.png",
+        "article": "0010",
+        "color": "Червоний"
+    },
+    {
+        "name": "Вино Tiziano «Ах-Нуар»",
+        "price": 72.00,
+        "image": "https://hophey.ua/upload/iblock/f23/373ky7vqi025n1el2r2lr7uxffz6r70u/vino-tiziano-akh-nuar.png",
+        "article": "0011",
+        "color": "Червоне, Напівсолодке"
+    },
+    {
+        "name": "Лимонад «Чугуїв»",
+        "price": 24.00,
+        "image": "https://hophey.ua/upload/iblock/67a/rejm5sdvbzd04g2ci9zzyxzyq7s510he/limonad-chuguev.png",
+        "article": "0012",
+        "color": "В основі Артезіанська вода"
+    }
+]
